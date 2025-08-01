@@ -16,5 +16,8 @@
     "url": "https://github.com/zkmlgdb/gdb-npm-up/issues"
   },
   "homepage": "https://github.com/zkmlgdb/gdb-npm-up#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
 }
